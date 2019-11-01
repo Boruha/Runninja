@@ -4,17 +4,14 @@ It's coded in Assembly to CPC 464 processor. We had worked on Manjaro using CPCT
 
 The entire game is developed by:
 
-Main programmer:
-Borja Pozo Wals (@Chico_riot)
+Main programmer: 
 
-Programmer and music designer:
-Mateo Linás Chaín (@MateoLinas)
+  Borja Pozo Wals (@Chico_riot)
 
-Art designer and programmer assitant:
-Carlos Romero Murcia (@CarletoRomeros)
+Programmer and music designer: 
 
+  Mateo Linás Chaín (@MateoLinas)
 
-All the art, sounds and themes are under the terms of a 'CC BY license'
+Art designer and programmer assitant: 
 
-READ MORE: https://creativecommons.org/licenses/by/4.0/           
-                                                              
+  Carlos Romero Murcia (@CarletoRomeros)
