@@ -1,0 +1,6 @@
+obj/
+bin/
+
+*.cdt
+*.dsk
+*.sna
